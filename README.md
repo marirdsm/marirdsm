@@ -3,6 +3,7 @@
 🎓 **Computer Science student at CUFSA**  
 💻 **Interests:** Web Development, Cybersecurity, and Information Engineering, Computer forensics  
 📚 **Currently learning:** PHP, Python, WAN Networks and Basic French
+
 🚀 **Goal:** To work in the Cybersecurity field and Tech in general
 
 ---
